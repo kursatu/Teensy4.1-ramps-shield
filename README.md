@@ -1,9 +1,10 @@
 # Teensy4.1-ramps-shield
 
-This is a RAMPS shield for teensy4.1.\
+This is a RAMPS shield/adapter for teensy4.1.\
 The Marlin firmware now has support for teensy4.1.\
 But, there are no ready-to-use HW at this time.\
 So, I've designed one for myself.\
+It only has female headers at this time.\
 It is work in progress and not really in my priority list.\
 The teensy4.1 work is still progressing, there may be pin changes and such.\
 So I may not move very fast on it.\
