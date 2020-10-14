@@ -26,5 +26,6 @@ To do:
 Completed tasks:
 - [X] Complete all the pin connections. Completed on Oct/13/2020
 - [X] Order RAMPS board. Completed on Oct/14/2020
-Ordered this RAMP 1.6 board. They are supposedly pin compatible with RAMP 1.4 of reprap.\
+Ordered this RAMP 1.6 board.\
+They are supposedly pin compatible with RAMP 1.4 of reprap.\
 https://www.amazon.com/gp/product/B07RF576WC/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
