@@ -7,7 +7,7 @@ So, I've designed one for myself.\
 It is work in progress and not really in my priority list.\
 The teensy4.1 work is still progressing, there may be pin changes and such.\
 So I may not move very fast on it.\
-Here is the schema https://github.com/kursatu/Teensy4.1-ramps-shield/blob/main/schema.png
+Here is the schema https://github.com/kursatu/Teensy4.1-ramps-shield/blob/main/schema.png \
 Here is the pin mapping
 
 Things to do:
