@@ -9,6 +9,8 @@ It is work in progress and not really in my priority list.\
 The teensy4.1 work is still progressing, there may be pin changes and such.\
 So I may not move very fast on it.\
 Here is the schema https://github.com/kursatu/Teensy4.1-ramps-shield/blob/main/schema.png \
+Here is the board https://github.com/kursatu/Teensy4.1-ramps-shield/blob/main/board.png \
+
 Here is the pin mapping
 
 Teensy4.1 | Mega2560/RAMPS
