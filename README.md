@@ -18,7 +18,7 @@ Teensy4.1 | Mega2560/RAMPS
 TODO | TODO
 
 Things to do:
-- [ ] Complete all the pin connections. 
+- [X] Complete all the pin connections. 
 - [ ] Verify if all pins are properly mapped, using a RAMPS board and breadboard teensy4.1
 - [ ] Get it verified by the people in github teensy4.1 thread
 - [ ] Get it produced
