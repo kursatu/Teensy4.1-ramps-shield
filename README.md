@@ -8,8 +8,8 @@ It is work in progress and not really in my priority list.
 The teensy4.1 work is still progressing, there may be pin changes and such.
 So I may not move very fast on it.
 Things to do:
-1- Complete all the pin connections. 
-2- Verify if all pins are properly mapped, using a RAMPS board and breadboard teensy4.1
-2- Get it verified by the people in github teensy4.1 thread
-3- Get it produced
-4- Find and way for people to order them inexpensively. Osh park charges $42 for 3 of them.
+- [x] Complete all the pin connections. 
+- [x] Verify if all pins are properly mapped, using a RAMPS board and breadboard teensy4.1
+- [x] Get it verified by the people in github teensy4.1 thread
+- [ ] Get it produced
+- [ ] Find and way for people to order them inexpensively. Osh park charges $42 for 3 of them.
