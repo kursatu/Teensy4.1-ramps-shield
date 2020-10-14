@@ -17,9 +17,14 @@ Teensy4.1 | Mega2560/RAMPS
 -|-
 TODO | TODO
 
-Things to do:
-- [X] Complete all the pin connections. Completed on Oct/14/2020
+To do:
 - [ ] Verify if all pins are properly mapped, using a RAMPS board and breadboard teensy4.1
 - [ ] Get it verified by the people in github teensy4.1 thread
 - [ ] Get it produced
 - [ ] Find and way for people to order them inexpensively. Osh park charges $42 for 3 of them.
+
+Completed tasks:
+- [X] Complete all the pin connections. Completed on Oct/13/2020
+- [X] Order RAMPS board. Completed on Oct/14/2020
+Ordered this RAMP 1.6 board. They are supposedly pin compatible with RAMP 1.4 of reprap.
+https://www.amazon.com/gp/product/B07RF576WC/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
