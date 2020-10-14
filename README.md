@@ -2,10 +2,10 @@
 
 This is a RAMPS shield/adapter for teensy4.1.\
 The Marlin firmware now has support for teensy4.1.\
-But, there are no ready-to-use HW at this time.\
+But, I couldn't find a ready-to-use HW.\
 So, I've designed one for myself.\
-It only has female headers at this time.\
-It is work in progress and not really in my priority list.\
+It only has female headers at this time and I'll try to keep it this way.\
+It is work in progress and not really in my priority list. But it is something super easy to do. \
 The teensy4.1 work is still progressing, there may be pin changes and such.\
 So I may not move very fast on it.\
 Here is the schema https://github.com/kursatu/Teensy4.1-ramps-shield/blob/main/schema.png \
@@ -18,7 +18,7 @@ Teensy4.1 | Mega2560/RAMPS
 TODO | TODO
 
 Things to do:
-- [X] Complete all the pin connections. 
+- [X] Complete all the pin connections. Completed on Oct/14/2020
 - [ ] Verify if all pins are properly mapped, using a RAMPS board and breadboard teensy4.1
 - [ ] Get it verified by the people in github teensy4.1 thread
 - [ ] Get it produced
